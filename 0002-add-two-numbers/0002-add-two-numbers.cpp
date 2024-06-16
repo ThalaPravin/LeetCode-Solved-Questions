@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        // Initialize carry and dummy node to build the result list
+       
         int carry = 0;
         ListNode dummy;
         ListNode* current = &dummy;
