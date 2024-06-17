@@ -21,7 +21,7 @@ public:
 
         ListNode* check = head;
         for (int i = 0; i < k; ++i) {
-            if (!check) return head; // Not enough nodes left, return head
+            if (!check) return head; 
             check = check->next;
         }
         while(curr != NULL && cnt < k){
