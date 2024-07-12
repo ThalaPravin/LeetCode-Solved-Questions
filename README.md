@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
