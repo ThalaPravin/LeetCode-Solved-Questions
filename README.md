@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
 | ------- |
