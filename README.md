@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
