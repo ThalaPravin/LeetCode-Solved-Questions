@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
