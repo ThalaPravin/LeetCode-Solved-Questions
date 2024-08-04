@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Array
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -314,5 +317,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
