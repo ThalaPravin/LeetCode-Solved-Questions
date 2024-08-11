@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Two Pointers
 |  |
