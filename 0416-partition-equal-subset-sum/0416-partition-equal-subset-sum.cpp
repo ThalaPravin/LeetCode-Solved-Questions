@@ -1,38 +1,27 @@
 class Solution {
 public:
-
-bool isSubsetSum(vector<int>arr, int sum){
-        int n=arr.size();
-        
-        bool dp[n+1][ sum+1];
-        memset(dp , false, sizeof(dp));
-        
-        for(int i=0; i<n; i++){
-            dp[i][0]=true;
-        }
-        
-       
-        
-        for(int i=1; i<n+1; i++){
-            for(int j=1; j<sum+1 ; j++){
-                if(arr[i-1]<=j){
-                    dp[i][j]= dp[i-1] [j-arr[i-1]]  || dp[i-1] [j];
-                }
-                else{
-                    dp[i] [j] = dp[i-1] [j];
-                }
-            }
-        }
-        return dp[n][sum];
-    }
     bool canPartition(vector<int>& nums) {
-        long long sum= 0;
-        for(auto i: nums ){
-            sum+=i;
+        int tsum=0;
+        for(int i:nums){
+            tsum+=i;
         }
-        if(sum%2) return false;
+        if(tsum%2 !=0) return false;
+        int sum=tsum/2;
+        int n=nums.size();
+         vector<vector<int>>dp(n,vector<int>(sum+1,-1));
+        return f(nums,dp, n-1, sum);
+    }
 
-        return isSubsetSum(nums, sum/2);
+     bool f(vector<int>&arr, vector<vector<int>>&dp, int ind, int tar){
+        if(arr[ind]==tar) return true;
+        if(ind==0) return false;
         
+        if(dp[ind][tar]!=-1) return dp[ind][tar];
+        bool take=false;
+        bool nottake=f(arr, dp, ind-1, tar);
+        
+        if(arr[ind]<tar) take= f(arr,dp, ind-1, tar-arr[ind]);
+        
+        return dp[ind][tar] = take || nottake;
     }
 };
