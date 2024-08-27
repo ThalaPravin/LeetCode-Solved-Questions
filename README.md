@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
