@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
