@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
-        int n=nums.size();
+         int n=nums.size();
         if(n==1) return 1;
         map<int,int>mp;
         int mn=INT_MAX;
