@@ -5,12 +5,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0115-distinct-subsequences](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
