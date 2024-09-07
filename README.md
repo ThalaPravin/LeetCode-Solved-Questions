@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1170-shortest-common-supersequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [1170-shortest-common-supersequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
