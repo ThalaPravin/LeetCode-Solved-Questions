@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
