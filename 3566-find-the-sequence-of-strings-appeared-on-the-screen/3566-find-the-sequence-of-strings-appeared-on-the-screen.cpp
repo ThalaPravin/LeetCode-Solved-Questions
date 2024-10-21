@@ -9,7 +9,7 @@ public:
         v.push_back(s);  
 
         while(s.back()!=c){
-            s.back()=(s.back()=='z') ? 'a' : s.back() +1;
+            s.back()= s.back() +1;
             v.push_back(s); 
         }
     }
