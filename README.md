@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
