@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0229-majority-element-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Trie
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -186,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
