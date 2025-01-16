@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
