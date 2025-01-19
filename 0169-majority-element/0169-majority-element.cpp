@@ -14,6 +14,7 @@ public:
             }
 
             mx=max(mx, cur);
+            
         }
 
         return ans;
