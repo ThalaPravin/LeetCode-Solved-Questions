@@ -1,7 +1,7 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int goal) {
-         int cnt=0;
+        int cnt=0;
         int currsum=0;
         int n=nums.size();
         for(int i=0; i<n; i++){
