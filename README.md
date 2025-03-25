@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3430-count-days-without-meetings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Math
 |  |
 | ------- |
