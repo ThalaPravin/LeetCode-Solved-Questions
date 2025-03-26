@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 ## Two Pointers
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3430-count-days-without-meetings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
 |  |
 | ------- |
