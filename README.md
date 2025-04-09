@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3430-count-days-without-meetings) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Bit Manipulation
 |  |
