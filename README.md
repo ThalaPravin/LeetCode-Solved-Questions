@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3526-minimum-number-of-flips-to-make-binary-grid-palindromic-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3532-time-taken-to-mark-all-nodes) |
+| [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -462,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3532-time-taken-to-mark-all-nodes) |
+| [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Prefix Sum
 |  |
 | ------- |
