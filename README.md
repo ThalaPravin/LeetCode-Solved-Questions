@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0871-keys-and-rooms) |
+| [1916-find-center-of-star-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1916-find-center-of-star-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3532-time-taken-to-mark-all-nodes) |
