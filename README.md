@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2478-longest-nice-subarray](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2478-longest-nice-subarray](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2478-longest-nice-subarray) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+| [2478-longest-nice-subarray](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2478-longest-nice-subarray) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Trie
