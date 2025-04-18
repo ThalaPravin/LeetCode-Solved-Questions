@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
