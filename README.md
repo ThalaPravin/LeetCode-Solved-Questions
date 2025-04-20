@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
+| [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Binary Search
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2487-optimal-partition-of-string](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2487-optimal-partition-of-string) |
