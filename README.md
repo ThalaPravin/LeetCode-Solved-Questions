@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1656-count-good-triplets](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1656-count-good-triplets) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Binary Search Tree
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
+| [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
