@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3532-time-taken-to-mark-all-nodes) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
 ## Binary Search Tree
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0871-keys-and-rooms) |
 | [1916-find-center-of-star-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1916-find-center-of-star-graph) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3532-time-taken-to-mark-all-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3532-time-taken-to-mark-all-nodes) |
@@ -592,4 +595,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0210-course-schedule-ii) |
+| [2439-longest-cycle-in-a-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
