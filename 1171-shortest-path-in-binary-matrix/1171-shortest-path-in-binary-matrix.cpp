@@ -2,24 +2,36 @@ class Solution {
 public:
     int shortestPathBinaryMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-        if (grid[0][0] || grid[n - 1][n - 1]) return -1;
-        queue<pair<int, int>> q;
-        q.push({0, 0});
-        grid[0][0] = 1;
+        if (grid[0][0] != 0 || grid[n - 1][n - 1] != 0)
+            return -1;
+
+        vector<vector<int>> vis(n, vector<int>(n, 0));
+        queue<tuple<int, int, int>> q;
+        q.push({0, 0, 1});
+        vis[0][0] = 1;
+
+        int dx[] = {-1, -1, -1, 0, 1, 1, 1, 0};
+        int dy[] = {-1, 0, 1, 1, 1, 0, -1, -1};
+
         while (!q.empty()) {
-            auto [i, j] = q.front(); q.pop();
-            int d = grid[i][j];
-            if (i == n - 1 && j == n - 1) return d;
-            int xlen = min(n , i + 2), ylen = min(n , j + 2);
-            for(int x = max(0 , i - 1); x < xlen; ++x){
-                for(int y = max(0 , j - 1); y < ylen; ++y){
-                    if(!grid[x][y]){
-                        grid[x][y] = d + 1;
-                        q.push({x , y});
-                    }
+            auto [x, y, dist] = q.front(); 
+            q.pop();
+
+            if (x == n - 1 && y == n - 1)
+                return dist;
+
+            for (int dir = 0; dir < 8; dir++) {
+                int newr = x + dx[dir];
+                int newc = y + dy[dir];
+
+                if (newr >= 0 && newr < n && newc >= 0 && newc < n &&
+                    grid[newr][newc] == 0 && vis[newr][newc] == 0) {
+                    q.push({newr, newc, dist + 1});
+                    vis[newr][newc] = 1;
                 }
             }
         }
+
         return -1;
     }
 };
