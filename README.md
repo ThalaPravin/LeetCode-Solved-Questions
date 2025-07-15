@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1656-count-good-triplets](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1656-count-good-triplets) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3524-minimum-number-of-flips-to-make-binary-grid-palindromic-ii) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Recursion
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -486,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2439-longest-cycle-in-a-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
@@ -523,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1663-detect-cycles-in-2d-grid) |
+| [1753-path-with-minimum-effort](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3809-properties-graph) |
