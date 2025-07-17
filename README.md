@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0443-string-compression) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0890-lemonade-change) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0948-sort-an-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -424,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
@@ -536,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
