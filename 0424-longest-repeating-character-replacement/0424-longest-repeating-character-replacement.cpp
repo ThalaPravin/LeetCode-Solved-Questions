@@ -1,23 +1,22 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        int ans = 0, n = s.size();
-        for(char c = 'A'; c <= 'Z'; c++)
-        {
-            int i = 0, j = 0, replaced = 0;
-            while(j < n)
-            {
-                if(s[j] == c)
-                    j++;
-                else if(replaced < k)
-                    j++, replaced++;
-                else if(s[i] == c)
-                    i++;
-                else
-                    i++, replaced--;
-                ans = max(ans, j - i);
+        vector<int> freq(26, 0);
+        int maxFreq = 0, l = 0,r=0, maxLen = 0;
+
+        while(r<s.size()){
+            freq[s[r] - 'A']++;
+            maxFreq = max(maxFreq, freq[s[r] - 'A']);
+
+            while ((r - l + 1) - maxFreq > k) {
+                freq[s[l] - 'A']--;
+                l++;
             }
+
+            maxLen = max(maxLen, r - l + 1);
+            r++;
         }
-        return ans;
+
+        return maxLen;
     }
 };
