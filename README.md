@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0044-wildcard-matching) |
+| [0076-minimum-window-substring](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0443-string-compression) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
