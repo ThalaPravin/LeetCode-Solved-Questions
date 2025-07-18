@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1500-count-largest-group) |
 | [2487-optimal-partition-of-string](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2487-optimal-partition-of-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2478-longest-nice-subarray](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2478-longest-nice-subarray) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1559-cherry-pickup-ii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1559-cherry-pickup-ii) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0797-rabbits-in-forest) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1500-count-largest-group](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1500-count-largest-group) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2915-count-of-interesting-subarrays](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/2915-count-of-interesting-subarrays) |
 ## Backtracking
