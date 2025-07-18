@@ -8,11 +8,11 @@ public:
             if(nums[j]==0){
                 zr++;
             }
-            if(zr>k){
+            while(zr>k){
                 if(nums[i]==0) zr --;
-                i++;
+                  i++;
             }
-            if(zr<=k) mx=(mx, j-i+1);
+            if(zr<=k) mx=max(mx, j-i+1);
 
             j++;
         }
