@@ -11,18 +11,13 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode * p, TreeNode * q){
-        if(p==nullptr && q==nullptr) return true;
-        if(p==nullptr && q!=nullptr) return false;
-        if(p!= nullptr && q==nullptr) return false;
-
-        if(p->val != q->val) return false;
-        bool l=solve(p->left, q->right);
-        bool r= solve(p->right, q->left);
-
-        return l&r;
-            }
+    bool solve( TreeNode * node1, TreeNode * node2){
+        if(node1 == nullptr & node2 == nullptr) return true;
+        if(node1 == nullptr || node2 ==nullptr) return false;
+         if(node1->val != node2->val) return false;
+        return solve(node1->left, node2->right) && solve(node2->left, node1->right);
+    }
     bool isSymmetric(TreeNode* root) {
-      return solve(root->left, root->right);  
+        return solve( root->left, root->right);
     }
 };
