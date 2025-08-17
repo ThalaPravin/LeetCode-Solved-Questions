@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1170-shortest-common-supersequence) |
+| [1197-parsing-a-boolean-expression](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1197-parsing-a-boolean-expression](https://github.com/ThalaPravin/LeetCode-Solved-Questions/tree/master/1197-parsing-a-boolean-expression) |
 ## Tree
 |  |
 | ------- |
